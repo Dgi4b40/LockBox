@@ -1,4 +1,4 @@
-# Password Manager | MERN
+# LockBox
 
 A Password Manager project created using MERN stack
 
@@ -50,13 +50,6 @@ To configure the server run the following command from the root directory
 cd server && npm install
 ```
 
-Create .env file and configure environmental variables as follows
-
-```js
-CONNECTION_URI=<your MongoDB URI>
-SECRET_KEY=<your secret key for hashing passwords>
-```
-
 Once all the dependencies were installed start the server
 
 ```console
@@ -69,13 +62,6 @@ To configure the client run the following command from the root directory
 
 ```console
 cd client && npm install
-```
-
-Create .env file and configure environmental variables as follows
-
-```js
-REACT_APP_GOOGLE_CLIENT_ID=<your Google OAuth client ID>
-REACT_APP_SERVER_ACCESS=<your server URL>
 ```
 
 Once all the dependencies were installed start the client
