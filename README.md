@@ -63,6 +63,11 @@ To configure the client run the following command from the root directory
 ```console
 cd client && npm install
 ```
+If error, run
+
+```console
+cd client && npm install --force
+```
 
 Once all the dependencies were installed start the client
 
