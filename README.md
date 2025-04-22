@@ -39,7 +39,7 @@ A Password Manager project created using MERN stack
 Navigate to the directory of choice and clone the project
 
 ```console
-git clone https://github.com/tmneth/password-manager.git
+git clone https://github.com/Dgi4b40/LockBox.git
 ```
 
 ## Setting up the server
